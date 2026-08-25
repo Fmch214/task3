@@ -8,11 +8,88 @@
 position: relative;
 display: flex;
 justify-content: center;
+gap: 60px;
+font-size: 18px;
+font-weight: 400;
 }
+.nav #home{
+    text-decoration:underline ;
+    color: #F38160;
+    gap: 10px;
+}
+.nav a{
+    text-decoration: none;
+    color: #403C39;
+}
+.logo img{
+position: relative;
+left: 87px;
+top: 40px;
 
+}
+.sign{
+position: relative;
+right: -1800px;
+align-items: center;
+display: flex;
+gap: 40px;
+width: 400px;
+flex-direction: row-reverse;
+top: -40px;
 
+}
+.sign #up{
+color: white;
+background-color: #F38160;
+text-decoration: none;
+width: 100px;
+height: 60px;
+align-items: center;
+justify-content: center;
+display: flex;
+border-radius: 16px;
+}
+.sign a{
+    color: #F38160;
+}
+.items img{
+position: relative;
+right: -1880px;
+top: 68px;
 
+}
+.agha{
+position: relative;
+top: -580px;
+right: -800px;
+width: 1000px;
+}
+.agha img{
 
+}
+.title{
+position: relative;
+top: -1100px;
+width: 762px;
+height: 190px;
+font-family: "Montserrat", sans-serif;
+left: 200px;
+}
+.big-t{
+
+font-weight: 700;
+font-size: 40px;
+}
+.big-t a{
+    text-decoration: none;
+    color: #F38160;
+}
+.small-t{
+font-weight: 400;
+font-size: 10px;
+width: 600px;
+color: #949494;
+}
 
 
 
